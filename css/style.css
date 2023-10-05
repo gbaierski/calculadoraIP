@@ -1,0 +1,52 @@
+#creditos{
+	width: 100%;
+	margin-top: 20px;
+	margin-left: 130px;
+	font-size: 12px;
+}
+
+#turma_ano{
+	width: 100%;
+	margin-left: 190px;
+	font-size: 12px;
+}
+#resultados_title{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+.resultados_section{
+	background: rgba(0,0,0,0.8);
+	width: 50%;
+	
+}
+
+.result{
+	margin-top: 60px;
+	width: 100%;
+	text-align: center;
+  	
+}
+
+.resultados{
+	color: white;
+	font-size: 17px;
+	margin-top: 3px;
+	
+
+	
+}
+
+
+.error{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: 27%;
+}
+
+
+
